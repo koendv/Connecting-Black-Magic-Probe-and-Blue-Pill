@@ -10,4 +10,6 @@
 
 Do not connect two power sources to a Blue Pill at the same time.
 
+usb cable from bmp to host running gdb.
+
 
